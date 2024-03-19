@@ -525,7 +525,7 @@ Overall, the solution is creative and provides a different perspective on the pr
 
 It's essential to consider factors such as readability, maintainability, and performance when choosing a solution. The choice between the provided solution and the previous ones depends on the specific requirements and preferences of the developer or the project.
 
-[https://lh3.googleusercontent.com/a/AEdFTp6s2-TR5ndk5Qi0MrPHzpxR2Bsg3DtkifJzBdTX=s96-c](https://lh3.googleusercontent.com/a/AEdFTp6s2-TR5ndk5Qi0MrPHzpxR2Bsg3DtkifJzBdTX=s96-c)
+
 
 **You**
 
